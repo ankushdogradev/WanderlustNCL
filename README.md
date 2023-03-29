@@ -10,7 +10,7 @@
 ## About
 ![user](https://user-images.githubusercontent.com/75878788/228607731-e02f22ee-6369-4a51-9496-c82464a7cbb1.gif)
 
-<h4><a href="https://vimeo.com/811339250" target="_blank">Demonstration Video</a></h4>
+[Demonstration Video](https://vimeo.com/811339250)
 
 ## Technologies
 We have two main components Kiosk and Wonderbox:
@@ -38,6 +38,11 @@ Software:
 - C++ code for stamping mechanism
 
 ## Setup
+**To run web app:**
 
+- Clone or download the kisosk folder on your local computer
+- Open the HCI_TECH folder and double click on the index.html file will open in the default browser. 
+- If you want page to open in particular browser, right click on the file and select the required browser to run the file.
+- If use the code, open the file in any dev environment or any text editor.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
