@@ -7,6 +7,8 @@
 * [Setup](#setup)
 
 ## About
+![user](https://user-images.githubusercontent.com/75878788/228607731-e02f22ee-6369-4a51-9496-c82464a7cbb1.gif)
+
 
 ## Technologies
 
