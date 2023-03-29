@@ -13,7 +13,7 @@
 <h4><a href="https://vimeo.com/811339250" target="_blank">Demonstration Video</a></h4>
 
 ## Technologies
-We have two main components:
+We have two main components Kiosk and Wonderbox:
 
 ### Kiosk
 Hardware:
