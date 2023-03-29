@@ -13,6 +13,29 @@
 <h4><a href="https://vimeo.com/811339250" target="_blank">Demonstration Video</a></h4>
 
 ## Technologies
+We have two main components:
+
+### Kiosk
+Hardware:
+- Surface Pro as a display for the web app
+- Servo Motor for imitating printer
+- Micro:bit V2 for servo motor
+
+Software:
+- Webapp (HTML/CSS/JS)
+
+### WanderBox
+Hardware:
+- Raspberry Pi 4
+- Micro:bit V2 for Neo Pixel
+- Arduino
+- Mini LCD Display
+- Stepper Motor
+- Stepper Motor TB6600 Driver
+
+Software:
+- Python program for QR Code, & Directions
+- C++ code for stamping mechanism
 
 ## Setup
 
