@@ -33,6 +33,7 @@ Hardware:
 - Mini LCD Display
 - Stepper Motor
 - Stepper Motor TB6600 Driver
+- 8 Buttons
 
 Software:
 - Python program for QR Code, & Directions
