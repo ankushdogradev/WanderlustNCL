@@ -28,7 +28,8 @@ for i in range(len(locations)):
     locations[i] = locations[i].strip()
 
 # Get Google Maps API key
-api_key = "AIzaSyD-adAvH1hCUw3GvzrYryLpDU4uTPcTszQ"
+# Replace <API KEY> With your google api key
+api_key = "<API KEY>"
 
 # Initialize Google Maps client
 gmaps = googlemaps.Client(key=api_key)
