@@ -64,7 +64,16 @@ sudo python3 run.py
 ```
 
 **To run Map code**
+- Install the necessary dependencies
 
-- 
+```python
+sudo apt-get install python-rpi.gpio xdotool
+```
+- Run the script
+
+```python
+sudo python3 map.py
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
