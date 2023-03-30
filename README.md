@@ -44,5 +44,27 @@ Software:
 - Open the HCI_TECH folder and double click on the index.html file will open in the default browser. 
 - If you want page to open in particular browser, right click on the file and select the required browser to run the file.
 - If use the code, open the file in any dev environment or any text editor.
+
+**To run Direction & Trail Code**
+
+- Setup raspberry pi with speaker & a display
+- Install Necessary modules
+
+```python
+sudo apt-get update
+sudo apt-get install python3-rpi.gpio
+sudo apt-get install python3-pygame
+pip3 install gtts googlemaps
+```
+- Open terminal
+- Run the following command to run "run.py"
+
+```python
+sudo python3 run.py
+```
+
+**To run Map code**
+
+- 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
