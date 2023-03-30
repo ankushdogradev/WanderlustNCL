@@ -8,6 +8,7 @@
 * [License](#license)
 
 ## About
+WanderlustNCL is a tourism system that enhances the experience of visitors to Newcastle by creating walkable trails, revealing hidden gems, and facilitating souvenir collections. The project seeks to utilise the physical product by utilising the existing kiosks and introducing physical machines to assist users along the route without requiring mobile devices. In this pictorial, we present the design of the ecosystem of WanderlustNCL and explore the development and rationale behind the concept, as well as potential alternatives, through group brainstorming. This was followed by the production of initial prototypes and functional models. Throughout this process, we propose that our design is a tourism ecosystem that would enrich the travel experiences of tourists and allow them to immerse themselves in the local community.
 ![user](https://user-images.githubusercontent.com/75878788/228607731-e02f22ee-6369-4a51-9496-c82464a7cbb1.gif)
 
 [Demonstration Video](https://vimeo.com/811339250)
