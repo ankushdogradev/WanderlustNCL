@@ -75,5 +75,12 @@ sudo apt-get install python-rpi.gpio xdotool
 sudo python3 map.py
 ```
 
+**To Run Stamp Code**
+- Install Arduino IDE from [here](https://www.arduino.cc/en/software)
+- Open the code in the Arduino IDE.
+- Select the correct board and serial port from the Tools menu according to your arduino.
+- Attach necessary componentsbutton, stepper motor & stepper motor driver to arduino.
+- Click Upload button to upload the code on the board
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
