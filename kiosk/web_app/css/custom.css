@@ -234,6 +234,7 @@
   display: none;
 }
 
+/* usre help */
 .wanderSteps {
   color: #666;
   border-bottom: 1px dashed #ddd;
@@ -250,6 +251,7 @@
   border: 2px dashed #aaa;
 }
 
+/* style for google review on places */
 .review-div {
   display: flex;
   justify-content: center;
@@ -267,6 +269,7 @@
   cursor: pointer;
 }
 
+/* user profile images */
 .profile-img {
   width: 50px;
   height: 50px;
@@ -307,6 +310,7 @@
   color: #f9d71c;
 }
 
+/* visitor profile div*/
 .profile-div {
   display: flex;
   justify-content: space-between;
